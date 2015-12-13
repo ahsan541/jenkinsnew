@@ -10,5 +10,7 @@ public class classa {
 		return a*b;
 	}
 
+	public static void setUpBeforeClass() throws Exception {
+	}
 
 }
