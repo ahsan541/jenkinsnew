@@ -1,5 +1,7 @@
 package task;
 
+import org.junit.After;
+
 public class classa {
 	public String Concatenate(String a,String b)
 	{
@@ -13,4 +15,7 @@ public class classa {
 	public static void setUpBeforeClass() throws Exception {
 	}
 
+
+	public void tearDown() throws Exception {
+	}
 }
